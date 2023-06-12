@@ -5,3 +5,7 @@ My solution for the recipes project from the Odin Project Foundations Course. St
 Taken from [The Odin Project](https://www.theodinproject.com/) free online course's [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes). 
 
 Started on June 12th, 2023.
+
+Completed to the current state on the 12th June, 2023. As stated this was just intended as a HTML project and rather than spend a lot of time tweaking the CSS I've decided to move on to the next course module.
+
+Repository is public as that is a requirement of marking.
