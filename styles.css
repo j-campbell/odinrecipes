@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Norse";
+  src: url(resources/Norse.otf);
+  
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+
+header {
+  width: 60vh;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Norse";
+  font-size: 5em;
+  font-weight: 900;
+  text-align: center;
+}
+
+#logo {
+  text-decoration: none;
+  color: black;
+}
+
+#logo:hover {
+  color: darkred;
+}
+
+
+main {
+  width: 60vh;
+  margin: 0 auto;
+  background-color: lightgrey;
+  padding: 25px auto;
+  font-family: Tahoma, sans-serif;
+}
+
+main p {
+  margin: auto 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.image-list {
+  padding: 0;
+}
+
+.image-list li {
+  display: block;
+  width: 100%;
+}
+
+.container {
+  margin: 0;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.container:hover {
+  color: cyan;
+  text-decoration: underline;
+}
+
+.container img {
+  width: 100%;
+}
+
+.container img:hover {
+  filter: sepia(1);
+}
+
+.label-top-left {
+  font-size: 2em;
+  font-style: italic;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  filter: drop-shadow(4px 4px 10px black);
+}
