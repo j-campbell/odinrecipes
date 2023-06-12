@@ -33,13 +33,16 @@ h1 {
   color: darkred;
 }
 
-
 main {
   width: 60vh;
   margin: 0 auto;
   background-color: lightgrey;
-  padding: 25px auto;
+  /* padding: 25px auto; */
   font-family: Tahoma, sans-serif;
+}
+
+section {
+  margin: 0 20px;
 }
 
 main p {
@@ -48,9 +51,11 @@ main p {
 
 h2 {
   text-align: center;
+  font-family: "Norse";
+  font-size: 4em;
+  font-weight: 900;
+  margin-bottom: 0px;
 }
-
-
 
 .image-list {
   padding: 0;
@@ -89,4 +94,15 @@ h2 {
   top: 8px;
   left: 16px;
   filter: drop-shadow(4px 4px 10px black);
+}
+
+#ingredients lh {
+  font-weight: bold;
+}
+
+#bonappetit {
+  font-family: cursive;
+  font-size: 3em;
+  font-style: italic;
+  text-align: center;
 }
