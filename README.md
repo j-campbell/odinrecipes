@@ -9,3 +9,5 @@ Started on June 12th, 2023.
 Completed to the current state on the 12th June, 2023. As stated this was just intended as a HTML project and rather than spend a lot of time tweaking the CSS I've decided to move on to the next course module.
 
 Repository is public as that is a requirement of marking.
+
+This page is available on [github.io](https://j-campbell.github.io/odinrecipes/) as per The Odin Project requirements.
